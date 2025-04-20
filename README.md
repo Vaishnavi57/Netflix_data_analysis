@@ -47,12 +47,12 @@ netflix_cast: Separated multiple cast members into individual rows.
 netflix_country: Handled multiple countries listed for a show.
 
 ## Data Analysis Queries
-🎬 Which directors have created both movies and TV shows?
+Which directors have created both movies and TV shows?
 
-🌍 Which country has the highest number of comedies?
+Which country has the highest number of comedies?
 
-🏆 Top director by number of movies released each year.
+Top director by number of movies released each year.
 
-⏱️ Average duration of movies by genre.
+Average duration of movies by genre.
 
-😱😂 Directors who have made both horror and comedy movies.
+Directors who have made both horror and comedy movies.
